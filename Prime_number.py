@@ -1,6 +1,5 @@
 # if any number is prime then there is no factors other than 1 and itself.
 # 2 is the smallest prime number.
-# logic for prime number
 
 n = int(input("Enter a number: "))
 
